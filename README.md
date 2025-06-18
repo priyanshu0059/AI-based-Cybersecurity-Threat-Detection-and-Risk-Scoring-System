@@ -9,8 +9,6 @@ This project is an intelligent system designed to automatically detect cybersecu
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Project Structure](#project-structure)
-- [Usage](#usage)
 - [Model Details](#model-details)
 - [Contributing](#contributing)
 - [License](#license)
@@ -71,11 +69,14 @@ Classes: 50+ attack/normal types
 
 Input Features: Network traffic attributes like srcip, proto, sport, dur, sbytes, dbytes, etc.
 
-Model metadata:
+## Model metadata:
 
+```bash
 Stored in model_metadata.json
 
 Preprocessing pipeline: full_pipeline.pkl
+```
+---
 
-🤝 Contributing
+## 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
