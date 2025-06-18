@@ -47,6 +47,7 @@ This project is an intelligent system designed to automatically detect cybersecu
 git clone https://github.com/your-username/AI-based-Cybersecurity-Threat-Detection-and-Risk-Scoring-System.git
 cd AI-based-Cybersecurity-Threat-Detection-and-Risk-Scoring-System
 
+```
 Create and activate virtual environment   python -m venv venv
 source venv/bin/activate      # For Linux/macOS
 venv\Scripts\activate         # For Windows  Install dependencies  pip install -r requirements.txt
